@@ -6,7 +6,7 @@ Coding Exam Collabera
 
 ## Installation
 
-Install my-project with npm
+Install my-project with git
 
 ```bash
   git clone -b <master> git@github.com:custodioap/coding-exam-collabera.git
