@@ -9,7 +9,7 @@ Coding Exam Collabera
 Install my-project with npm
 
 ```bash
-  git clone -b <branch_name> git@github.com:custodioap/coding-exam-collabera.git
+  git clone -b <master> git@github.com:custodioap/coding-exam-collabera.git
   cd my-project
 ```
 
