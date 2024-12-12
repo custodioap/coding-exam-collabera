@@ -2,10 +2,10 @@
 # Coding Examination
 
 **Core Functionality**
-•Create an App, which can be used to get the list of random users. 
-• Enter a number that should give a list of users.  
-• Display in a card with First name, Last name, Address and Profile picture. 
-• Tapping on a card will navigate to a details page with loaded data what is selected. 
+- Create an App, which can be used to get the list of random users.
+- Enter a number that should give a list of users.  
+- Display in a card with First name, Last name, Address and Profile picture. 
+- Tapping on a card will navigate to a details page with loaded data what is selected. 
 
 
 ## Installation
