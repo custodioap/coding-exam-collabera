@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.CodingExamCollabera" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <!-- Base application theme -->
+    <style name="Theme.MyApp" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Disable the default ActionBar provided by the theme -->
+        <item name="windowActionBar">false</item>
+
+        <!-- Enable use of Toolbar -->
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>
